@@ -1,0 +1,31 @@
+JOYEUX ANNIVERSAIRE
+
+creer une liste d'utilisateur
+Avec au moins: 1 USER NAME / string
+		   1 ID --> vous devez utiliser UUID (NPM)
+		   1 DATE D'INSCRIPTION --> vous devez utiliser date-fns ou momentJS et justifier votre choix
+		   1 LISTE DE HOBBIE --> un hobby est un objet (voir suite)
+		   1 DATE D'ANNIERSAIRE --> vous devez utiliser la lib de la date d'inscription
+
+La date d'inscription doit être aléatoire et comprise entre le 01/01/2020 et le 31/01/2022
+La date d'anniversaire doit être aléatoire et comprise entre le 01/01/1960 et le 31/12/1990
+
+/!\ HOBBY doit être un objet /!\ 1 id (1 --> 20) et 1 Name --> vous devez en créer 20
+
+
+
+1 UTILISATEUR doit avoir entre 3 et 10 hobbies (aléatoire)
+				    (Aléatoire)
+
+
+--> VOUS DEVEZ ÉCRIRE 1 FONCTION SORT BY QUI PREND 2 PARAMETRES
+				STRING (attribut, ordre)
+					id, anniv...     ,     desc, asc
+
+
+--> VOUS DEVEZ ÉCRIRE 1 FONCTION BIRTH-DAY QUI PREND EN PARAMETRE 2 DATE
+				Qui retourne une liste d'utilisateur dont c'est l'anniversaire entre les 2 dates
+
+
+
+--> VOUS DEVEZ ÉCRIRE 1 FONCTION GROUP BY HOBBIE QUI PREND EN PARAMETRE UN TABLEAU D'ID ET QUI RETOURNE LA LISTE DES UTILISATEURS DONT LES HOBBIES ONT CES ID
