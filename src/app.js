@@ -1,3 +1,7 @@
+import { v4 as uuidv4 } from 'uuid';
+uuidv4();
+
+
 let hobbie = [
     {id: 0, name: "vélo"},
     {id: 1, name: "moto"},
@@ -24,17 +28,29 @@ let hobbie = [
 
 
 
-import { v4 as uuidv4 } from 'uuid';
-uuidv4();
-
-for (let i = 0; i < 1000; i++) {
+for (let i = 0; i < 10; i++) {
     console.log(uuidv4());
 }
 
-fetch ('https://randomuser.me/api/')
+const randomusername = function () {
+    fetch(`https://randomuser.me/api`)
 
-.then(respponse => Response.json)
+    .then(response => response.json())
+    
+    .then((data) => {
+       const user = data.results[0];
+       const usernames = user.name.first + " " + user.name.last;
+       console.log(usernames);
+    });
+};
 
-.then((data) => {
-    console.log(data.user);
-})
+randomusername();
+
+
+function getRandom(min, max) {
+    return Math.random() * (max - min) + min;
+  }
+  
+  let google = getRandom(1,31);
+
+  console.log(google);

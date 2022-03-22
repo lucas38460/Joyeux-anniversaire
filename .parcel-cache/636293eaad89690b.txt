@@ -36,14 +36,14 @@
 89C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\node_modules\resolve-from\license132924190568953644 0
 124C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\node_modules\caniuse-lite\data\features\document-scrollingelement.js132924190590602646 0
 77C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\node_modules\escalade132924190573443032 1
-60C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\dist132924202973308842 1
+60C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\dist132924299214202576 1
 116C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\node_modules\caniuse-lite\data\features\css-marker-pseudo.js132924190588399587 0
 144C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\foo\package.json132924190581077347 0
 108C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\node_modules\stylehacks\types\plugins\bodyEmpty.d.ts132924190578544861 0
 101C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\node_modules\postcss-value-parser\lib\walk.js132924190572103430 0
 100C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\node_modules\caniuse-lite\data\regions\CX.js132924190590125911 0
 113C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\node_modules\utility-types\dist\functional-helpers.js.map132924190574085802 0
-66C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\src\app.js132924203007944393 0
+66C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\src\app.js132924299241022019 0
 80C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\node_modules\@types\uuid132924123077656034 1
 64C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\Read.txt132924114610454234 0
 90C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\node_modules\resolve-from\index.js132924190568069107 0
@@ -69,7 +69,7 @@
 73C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\package-lock.json132924190608004936 0
 113C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\node_modules\utility-types\dist\aliases-and-guards.js.map132924190573412505 0
 112C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\node_modules\caniuse-lite\data\features\css-variables.js132924190589717009 0
-70C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\src\index.html132924194379461633 0
+70C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\src\index.html132924286359715671 0
 94C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\node_modules\@parcel\types\build-ts.js132924190568191635 0
 86C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\node_modules\terser\lib\cli.js132924190577921246 0
 91C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\node_modules\supports-color\license132924190567076239 0
@@ -795,7 +795,7 @@
 94C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\node_modules\yaml\browser\parse-cst.js132924190577821336 0
 101C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\node_modules\@parcel\resolver-default\LICENSE132924190567247077 0
 91C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\node_modules\yaml\browser\schema.js132924190580112257 0
-82C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\dist\index.0641b553.js.map132924202973278933 0
+82C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\dist\index.0641b553.js.map132924299214202576 0
 127C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\node_modules\terser\node_modules\source-map\lib\source-map-generator.js132924190577084245 0
 89C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\node_modules\yaml\browser\util.js132924190581788429 0
 85C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\node_modules\entities\LICENSE132924190566895642 0
@@ -2122,7 +2122,7 @@
 95C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\node_modules\nan\nan_maybe_pre_43_inl.h132924190576523213 0
 103C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\node_modules\@parcel\events\lib\ValueEmitter.js132924190575076953 0
 105C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\node_modules\postcss-discard-comments\LICENSE-MIT132924190567056287 0
-78C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\dist\index.0641b553.js132924202973228159 0
+78C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\dist\index.0641b553.js132924299214202576 0
 85C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\node_modules\postcss-calc\src132924190576834411 1
 106C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\node_modules\postcss-discard-comments\package.json132924190571749212 0
 88C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\node_modules\ordered-binary\dist132924190568069107 1
@@ -4743,8 +4743,8 @@
 84C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\node_modules\.bin\terser.cmd132924190600695297 0
 84C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\node_modules\.bin\terser.ps1132924190600695297 0
 78C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\node_modules\.bin\uuid132924123080340465 0
-79C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\dist\index.2cdaf7bc.css132924202888283043 0
-83C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\dist\index.2cdaf7bc.css.map132924202888303446 0
-71C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\dist\index.html132924202888656630 0
+79C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\dist\index.2cdaf7bc.css132924296438855560 0
+83C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\dist\index.2cdaf7bc.css.map132924296438855560 0
+71C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\dist\index.html132924296438855560 0
 92C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\dist\Joyeux-anniversaire.59712999.js132924194247956857 0
 96C:\Users\Lucas\Documents\git_folder\Joyeux-anniversaire\dist\Joyeux-anniversaire.59712999.js.map132924194247998425 0
