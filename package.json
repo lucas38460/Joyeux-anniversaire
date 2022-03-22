@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lucas38460/Joyeux-anniversaire/issues"
   },
-  "homepage": "https://github.com/lucas38460/Joyeux-anniversaire#readme"
+  "homepage": "https://github.com/lucas38460/Joyeux-anniversaire#readme",
+  "dependencies": {
+    "uuidv4": "^6.2.12"
+  }
 }
