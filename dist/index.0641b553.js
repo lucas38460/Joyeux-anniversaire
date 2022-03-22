@@ -522,6 +522,10 @@ function hmrAcceptRun(bundle, id) {
 var _uuid = require("uuid");
 _uuid.v4();
 for(let i = 0; i < 1000; i++)console.log(_uuid.v4());
+fetch('ttps://randomuser.me/api/').then((respponse)=>Response.json
+).then((data)=>{
+    console.log(data.user);
+});
 
 },{"uuid":"j4KJi"}],"j4KJi":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
