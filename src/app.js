@@ -4,7 +4,7 @@ for (let i = 0; i < 1000; i++) {
     console.log(uuidv4());
 }
 
-fetch ('ttps://randomuser.me/api/')
+fetch ('https://randomuser.me/api/')
 
 .then(respponse => Response.json)
 
