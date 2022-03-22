@@ -603,7 +603,20 @@ let hobbie = [
         name: "danser"
     }, 
 ];
-for(let i = 0; i < 10; i++)console.log(_uuid.v4());
+let nbBoules = parseInt(function randomboules(min, max) {
+    return Math.random() * (max - min) + min;
+});
+randomboules(3, 20);
+let Thobbieforperson = [];
+while(Thobbieforperson.length < nbBoules){
+    let i = function randomMelI(min, max) {
+        return Math.random() * (max - min) + min;
+    };
+    randomMelI(0, hobbie.length - 1);
+    Thobbieforperson.push(hobbie[i]);
+}
+console.log(i());
+for(let i1 = 0; i1 < 10; i1++)console.log(_uuid.v4());
 const randomusername = function() {
     fetch(`https://randomuser.me/api`).then((response)=>response.json()
     ).then((data)=>{
@@ -613,13 +626,13 @@ const randomusername = function() {
     });
 };
 randomusername();
-let google = parseInt(function getRandom(min, max) {
+let day = parseInt(function randomDay(min, max) {
     return Math.random() * (max - min) + min;
 });
-let michael = parseInt(function getRandom(min, max) {
+let month = parseInt(function randomMonth(min, max) {
     return Math.random() * (max - min) + min;
 });
-let robni = parseInt(function getRandom(min, max) {
+let years = parseInt(function randomYears(min, max) {
     return Math.random() * (max - min) + min;
 });
 
