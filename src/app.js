@@ -22,7 +22,7 @@ let hobbie = [
     {id: 16, name: "cuisiner"},
     {id: 17, name: "astronomie"},
     {id: 18, name: "faire du foot"},
-    {id: 19, name: "danser"},
+    {id: 19, name: "écouter the less we know better ans laddy here me to night"},
     
 ];
 
