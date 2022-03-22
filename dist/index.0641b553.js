@@ -613,11 +613,15 @@ const randomusername = function() {
     });
 };
 randomusername();
-function getRandom(min, max) {
+let google = parseInt(function getRandom(min, max) {
     return Math.random() * (max - min) + min;
-}
-let google = getRandom(1, 31);
-console.log(google);
+});
+let michael = parseInt(function getRandom(min, max) {
+    return Math.random() * (max - min) + min;
+});
+let robni = parseInt(function getRandom(min, max) {
+    return Math.random() * (max - min) + min;
+});
 
 },{"uuid":"j4KJi"}],"j4KJi":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
